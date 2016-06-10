@@ -1,4 +1,4 @@
-Module.register('goodreads',{
+Module.register('RAM',{
 
 	// Default module config.
 	defaults: {
